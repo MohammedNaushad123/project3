@@ -1,0 +1,63 @@
+.header-section{
+    float : left;
+    width : 100%;
+    background-color: black;
+    margin: 0% 0% 5% 0%;
+}
+ul{
+    text-align: center;
+}
+li{
+    display : inline-block;
+    width : 50;
+    color: white;
+    text-align : center;
+    margin : 0% 5% 0% 5%;
+    padding : 0.5% 2% 0.5% 2%;
+    cursor : pointer;
+    border-style: solid;
+    background-color: black;
+}
+
+.hero-section{
+    float: left;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../images/intro-bg.jpg');
+    background-size:  100% 100%;
+    padding: 10% 0% 10% 0%;
+}
+
+.hero-section h2{
+    font-size: 130px;
+    font-family: 0% 10% 0% 10%;
+    font-weight: 100;
+    color : white;
+
+}
+
+.special-section{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    width: 100%;
+}
+.sub-special-section{
+    display: flex;
+    font-size: 40px;
+}
+.main{
+    width : 100%;
+    background-color: dimgray;
+}
+.footer-section{
+    width : 100%;
+    color: brown;
+}
+.h5{
+    font-size: 100px;
+    background-color: ;
+
+
+}
+
